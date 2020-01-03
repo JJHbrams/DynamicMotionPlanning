@@ -1,0 +1,8 @@
+prefix=/home/mrjohd/MotionPlanning_ws/src/DynamicMotionPlanning/DynaMoP/cmake-build-debug/devel
+
+Name: DynaMoP
+Description: Description of DynaMoP
+Version: 0.0.0
+Cflags: -I/home/mrjohd/MotionPlanning_ws/src/DynamicMotionPlanning/DynaMoP/include
+Libs: -L/home/mrjohd/MotionPlanning_ws/src/DynamicMotionPlanning/DynaMoP/cmake-build-debug/devel/lib -lDynaMoP
+Requires: roscpp rospy std_msgs

@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: vehicle
+Description: Description of vehicle
+Version: 0.3.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

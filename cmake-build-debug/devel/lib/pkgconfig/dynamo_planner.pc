@@ -1,0 +1,8 @@
+prefix=/home/mrjohd/MotionPlanning_ws/src/cmake-build-debug/devel
+
+Name: dynamo_planner
+Description: Description of dynamo_planner
+Version: 0.0.0
+Cflags: -I/home/mrjohd/MotionPlanning_ws/src/DynamicMotionPlanning/dynamo_planner/include
+Libs: -L/home/mrjohd/MotionPlanning_ws/src/cmake-build-debug/devel/lib -ldynamo_planner
+Requires: roscpp rospy std_msgs roscpp rospy gazebo_ros

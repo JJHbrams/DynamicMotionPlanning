@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: DynaMoP
+Description: Description of DynaMoP
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib -lDynaMoP
+Requires: roscpp rospy std_msgs

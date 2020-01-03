@@ -1,0 +1,8 @@
+prefix=/home/mrjohd/MotionPlanning_ws/src/cmake-build-debug/devel
+
+Name: husky_description
+Description: Description of husky_description
+Version: 0.4.2
+Cflags: 
+Libs: -L/home/mrjohd/MotionPlanning_ws/src/cmake-build-debug/devel/lib 
+Requires: 
